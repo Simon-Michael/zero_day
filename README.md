@@ -1,6 +1,6 @@
 # This is the Optional Vagrant project.
 
-   ![The_Vagrant](https://user-images.githubusercontent.com/106796019/174551243-a0465de9-333a-437e-828b-072c30203d7f.jpg)
+* *        * ![The_Vagrant](https://user-images.githubusercontent.com/106796019/174551243-a0465de9-333a-437e-828b-072c30203d7f.jpg)
 
 *All the tasks for this project is done inside the [zero_day](https://github.com/Simon-Michael/zero_day) GitHub repository.*
 
